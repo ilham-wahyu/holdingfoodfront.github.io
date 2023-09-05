@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navigasi li a:hover{
+    color:  rgb(255, 136, 0);
+}
+.navigasi a{
+    color: white;
+}
